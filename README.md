@@ -29,29 +29,22 @@ If you're managing multiple support tickets or chats, I can even help you map ou
 COMMUNICATION
 
 1. Clarity and Simplicity:
-2. 
-Avoid technical jargon unless you're sure the customer understands it. Use plain language to explain steps, issues, or solutions.
+   Avoid technical jargon unless you're sure the customer understands it. Use plain language to explain steps, issues, or solutions.
 
 3. Professionalism:
-4. 
-Be respectful, courteous, and polite at all times—even if the customer is frustrated. How you say something is often as important as what you say.
+   Be respectful, courteous, and polite at all times—even if the customer is frustrated. How you say something is often as important as what you say.
 
 5. Active Listening:
-6. 
-Let customers fully express their issues before responding. This makes them feel heard and helps you gather all relevant information.
+   Let customers fully express their issues before responding. This makes them feel heard and helps you gather all relevant information.
 
 7. Empathy:
-8. 
-Acknowledge the inconvenience or difficulty the customer is facing. A simple “I understand how frustrating that must be” goes a long way.
+   Acknowledge the inconvenience or difficulty the customer is facing. A simple “I understand how frustrating that must be” goes a long way.
 
 9. Responsiveness:
-10. 
-Respond promptly. If you don’t have an immediate answer, let them know you're working on it and follow up within a reasonable time.
+    Respond promptly. If you don’t have an immediate answer, let them know you're working on it and follow up within a reasonable time.
 
 11. Documentation:
-12. 
-Keep a clear written record of what’s been discussed, especially for complex issues. This helps in case the issue escalates or needs to be revisited.
+    keep a clear written record of what’s been discussed, especially for complex issues. This helps in case the issue escalates or needs to be revisited.
 
 13. Confidence Without Arrogance:
-14. 
-Be clear and decisive when offering solutions, but always stay open to the customer’s perspective.
+    Be clear and decisive when offering solutions, but always stay open to the customer’s perspective.
